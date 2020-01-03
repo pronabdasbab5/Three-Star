@@ -1,0 +1,4 @@
+RewriteEngine On
+ErrorDocument 404 http://localhost/three_star/404.php
+ErrorDocument 403 http://localhost/three_star/404.php
+Options -Indexes
